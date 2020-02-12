@@ -172,6 +172,13 @@ Verify the installation worked:
 sam --version
 ```
 
+OR preferrably
+
+```bash
+brew tap aws/tap
+brew install aws-sam-cli
+```
+
 #### Binary release
 
 We also release the CLI as binaries that you can download and instantly use. You can find them under [Releases](https://github.com/awslabs/aws-sam-cli/releases) in the SAM CLI repo.
