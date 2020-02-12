@@ -296,6 +296,10 @@ HOW TO update code and verify results (expand for details)
 1. Open `app/list.js` in a text editor, update the message to read `Hello re:Invent!`, and save the changes.
 
    ![Hello re:Invent Code Changes](images/hello-reinvent.png)
+   
+   ```
+   sam build
+   ```
 
 1. Refresh the browser and confirm that you see the output below:
 
