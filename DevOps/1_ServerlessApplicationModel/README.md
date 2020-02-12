@@ -166,18 +166,19 @@ To use pip, you must have [Python](https://www.python.org/) installed and added 
 pip install aws-sam-cli
 ```
 
-Verify the installation worked:
-
-```bash
-sam --version
-```
-
 OR preferrably
 
 ```bash
 brew tap aws/tap
 brew install aws-sam-cli
 ```
+
+Verify the installation worked:
+
+```bash
+sam --version
+```
+
 
 #### Binary release
 
